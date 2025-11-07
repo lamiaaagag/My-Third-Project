@@ -1,0 +1,20 @@
+# Make-Up Products Website
+
+This is a practice website for displaying make-up products, created as a personal project for learning and improving web design skills.  
+All text content and products are **placeholder only**; this is **not a real company**.
+
+## Features
+- Product showcase layout
+- Responsive design using **Bootstrap**
+- Multi-section page with images and descriptions (placeholder)
+
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
+
+## Live Demo
+https://lamiaaagag.github.io/My-Third-Project/
+
+## Source Code
+https://github.com/lamiaaagag/My-Third-Project
